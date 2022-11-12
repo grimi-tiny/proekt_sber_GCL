@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\практика 14 августа 2022"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "green-corp-landing"
+	}
+}
